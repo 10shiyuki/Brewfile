@@ -1,4 +1,3 @@
-#install rcmdnk/file/brew-file
 # Tap repositories and their packages
 tap caskroom/cask
 install brew-cask
@@ -6,6 +5,9 @@ install brew-cask
 tap caskroom/versions
 tap homebrew/versions
 tap mpv-player/mpv
+
+cask install karabiner
+cask install bettertouchtool
 
 # Homebrew packages
 install chruby
@@ -24,7 +26,6 @@ install mpv
 cask install android-file-transfer
 cask install appcleaner
 cask install atom
-cask install bettertouchtool
 cask install caffeine
 cask install calibre
 cask install charles
@@ -53,7 +54,6 @@ cask install grandperspective
 cask install gyazo
 cask install iphone-backup-extractor
 cask install handbrake
-cask install karabiner
 cask install kobito
 cask install licecap
 cask install mactracker
