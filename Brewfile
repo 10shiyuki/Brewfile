@@ -33,7 +33,7 @@ cask install chromium
 cask install clipmenu
 cask install cloudytabs
 cask install coteditor
-cask install cyberduck
+#cask install cyberduck
 cask install diffmerge
 cask install dropbox
 cask install easyfind
