@@ -62,7 +62,6 @@ cask install makemkv
 cask install mplayerx
 cask install objektiv
 cask install opera
-cask install silverlight
 cask install simple-comic
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
@@ -76,5 +75,6 @@ cask install xbench
 cask install xtrafinder
 
 # password
-cask install google-adwords-editor
 cask install flash
+cask install google-adwords-editor
+cask install silverlight
