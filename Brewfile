@@ -44,7 +44,6 @@ cask install firefoxdeveloperedition-ja
 cask install fluid
 cask install flash
 cask install github
-#cask install google-adwords-editor
 cask install google-chrome
 cask install google-chrome-canary
 cask install google-drive
@@ -52,6 +51,7 @@ cask install google-drive
 cask install google-japanese-ime
 cask install grandperspective
 cask install gyazo
+cask install iphone-backup-extractor
 cask install handbrake
 cask install karabiner
 cask install kobito
@@ -74,3 +74,5 @@ cask install virtualbox
 cask install vlc
 cask install xbench
 cask install xtrafinder
+cask install google-adwords-editor
+
