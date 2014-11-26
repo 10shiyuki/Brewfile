@@ -43,7 +43,6 @@ cask install firefox-ja
 cask install firefoxdeveloperedition-ja
 #cask install filezilla
 cask install fluid
-cask install flash
 cask install github
 cask install google-chrome
 cask install google-chrome-canary
@@ -75,5 +74,7 @@ cask install vlc
 cask install vlc-nightly
 cask install xbench
 cask install xtrafinder
-cask install google-adwords-editor
 
+# password
+cask install google-adwords-editor
+cask install flash
