@@ -36,7 +36,6 @@ cask install coteditor
 #cask install cyberduck
 cask install diffmerge
 cask install dropbox
-cask install easyfind
 cask install evernote
 #cask install fairmount
 cask install firefox-ja
@@ -68,7 +67,6 @@ cask install sourcetree
 cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
-cask install virtualbox
 cask install vlc
 cask install vlc-nightly
 cask install xbench
@@ -78,3 +76,9 @@ cask install xtrafinder
 cask install flash
 cask install google-adwords-editor
 cask install silverlight
+cask install virtualbox
+
+# Mac App Store
+# cask install easyfind
+
+
