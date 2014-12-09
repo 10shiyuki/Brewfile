@@ -13,6 +13,7 @@ cask install bettertouchtool
 install chruby
 install ffmpeg
 install git
+install icdiff
 install nkf
 install node
 install rename
