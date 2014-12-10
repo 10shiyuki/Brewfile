@@ -69,7 +69,6 @@ cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
 cask install vlc
-cask install vlc-nightly
 cask install xbench
 cask install xtrafinder
 
