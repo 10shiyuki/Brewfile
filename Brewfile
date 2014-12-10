@@ -1,32 +1,13 @@
-# Tap repositories and their packages
+
+# tap repositories and their packages
+
+## caskroom/cask
 tap caskroom/cask
 install brew-cask
-
-tap caskroom/versions
-tap homebrew/versions
-tap mpv-player/mpv
-
-cask install karabiner
-cask install bettertouchtool
-
-# Homebrew packages
-install chruby
-install ffmpeg
-install git
-install icdiff
-install nkf
-install node
-install rename
-install ruby-install
-install tree
-install wget
-install --HEAD mpv-player/mpv/libass-ct
-install mpv
-
-# Cask Applications
 cask install android-file-transfer
 cask install appcleaner
 cask install atom
+cask install bettertouchtool
 cask install caffeine
 cask install calibre
 cask install charles
@@ -34,51 +15,121 @@ cask install chromium
 cask install clipmenu
 cask install cloudytabs
 cask install coteditor
-#cask install cyberduck
+cask install cyberduck
 cask install diffmerge
 cask install dropbox
+cask install easyfind
 cask install evernote
-#cask install fairmount
-cask install firefox-ja
-cask install firefoxdeveloperedition-ja
-#cask install filezilla
+cask install flash
 cask install fluid
 cask install github
+cask install google-adwords-editor
 cask install google-chrome
-cask install google-chrome-canary
 cask install google-drive
-#cask install google-hangouts
 cask install google-japanese-ime
 cask install grandperspective
 cask install gyazo
-cask install iphone-backup-extractor
 cask install handbrake
+cask install iphone-backup-extractor
+cask install karabiner
 cask install kobito
 cask install licecap
-cask install mactracker
 cask install macdown
 cask install macs-fan-control
+cask install mactracker
 cask install makemkv
 cask install mplayerx
 cask install objektiv
 cask install opera
+cask install silverlight
 cask install simple-comic
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
+cask install virtualbox
 cask install vlc
 cask install xbench
 cask install xtrafinder
 
-# password
-cask install flash
-cask install google-adwords-editor
-cask install silverlight
-cask install virtualbox
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+cask install firefoxdeveloperedition-ja
+cask install google-chrome-canary
 
-# Mac App Store
-# cask install easyfind
+## homebrew/versions
+tap homebrew/versions
 
+## mpv-player/mpv
+tap mpv-player/mpv
+install libass-ct --HEAD
+install mpv
 
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file
+
+# Other Homebrew packages
+install autoconf
+install automake
+install chruby
+install faac
+install ffmpeg
+install freetype
+install fribidi
+install gdbm
+install git
+install icdiff
+install jpeg
+install lame
+install libffi
+install libpng
+install libtiff
+install libtool
+install libyaml
+install little-cms2
+install lua
+install mpg123
+install nkf
+install node
+install openssl
+install pkg-config
+install readline
+install rename
+install ruby-install
+install tree
+install wget
+install x264
+install xvid
+install yasm
+
+# App Store applications
+appstore 1Password
+appstore Aperture
+appstore Astro for Facebook Messenger
+appstore Dash
+appstore Desktop Calendar Plus
+appstore EasyFind
+appstore ForkLift
+appstore FormatMatch
+appstore Found
+appstore iBooks Author
+appstore Install OS X Mavericks
+appstore Install OS X Yosemite
+appstore iPhoto
+appstore Keynote
+appstore Kindle
+appstore LINE
+appstore Microsoft OneNote
+appstore Minutes
+appstore Numbers
+appstore Pages
+appstore Pocket
+appstore Skitch
+appstore SourceTree
+appstore Tweetbot
+appstore WinArchiver Lite
+appstore Wunderlist
+appstore Xcode
