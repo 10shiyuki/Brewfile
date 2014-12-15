@@ -45,6 +45,7 @@ cask install silverlight
 cask install simple-comic
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
+cask install synergy
 cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
