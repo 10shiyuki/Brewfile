@@ -18,6 +18,7 @@ cask install coteditor
 cask install cyberduck
 cask install diffmerge
 cask install dropbox
+cask install duet
 cask install easyfind
 cask install evernote
 cask install flash
