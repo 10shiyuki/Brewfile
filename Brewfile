@@ -24,6 +24,7 @@ cask install evernote
 cask install flash
 cask install fluid
 cask install github
+cask install goofy
 cask install google-adwords-editor
 cask install google-chrome
 cask install google-drive
