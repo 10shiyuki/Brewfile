@@ -28,6 +28,7 @@ cask install goofy
 cask install google-adwords-editor
 cask install google-chrome
 #cask install google-drive
+cask install google-earch
 cask install google-japanese-ime
 cask install grandperspective
 cask install gyazo
