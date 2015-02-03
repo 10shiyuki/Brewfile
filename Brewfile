@@ -100,6 +100,7 @@ install mpg123
 install nkf
 install node
 install openssl
+install peco/peco/peco
 install pkg-config
 install readline
 install rename
