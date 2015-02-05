@@ -33,6 +33,7 @@ cask install google-japanese-ime
 cask install grandperspective
 cask install gyazo
 cask install handbrake
+cask install hosts
 cask install iphone-backup-extractor
 cask install karabiner
 cask install kobito
