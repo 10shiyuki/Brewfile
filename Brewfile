@@ -36,6 +36,7 @@ cask install handbrake
 cask install hosts
 cask install iphone-backup-extractor
 cask install karabiner
+cask install kindle
 cask install kobito
 cask install licecap
 cask install macdown
