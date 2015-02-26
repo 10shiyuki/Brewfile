@@ -48,6 +48,7 @@ cask install objektiv
 cask install opera
 cask install silverlight
 cask install simple-comic
+cask install slack
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install synergy
