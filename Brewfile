@@ -70,6 +70,8 @@ cask install google-chrome-canary
 ## homebrew/versions
 tap homebrew/versions
 
+install Caskroom/cask/xquartz
+
 ## mpv-player/mpv
 tap mpv-player/mpv
 install libass-ct --HEAD
