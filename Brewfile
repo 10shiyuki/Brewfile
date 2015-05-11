@@ -7,6 +7,7 @@ install brew-cask
 cask install android-file-transfer
 cask install appcleaner
 cask install atom
+cask install avast
 cask install bettertouchtool
 cask install caffeine
 cask install calibre
@@ -39,6 +40,7 @@ cask install karabiner
 cask install kindle
 cask install kobito
 cask install licecap
+cask install lingon-x
 cask install macdown
 cask install macs-fan-control
 cask install mactracker
@@ -49,7 +51,7 @@ cask install opera
 cask install silverlight
 cask install simple-comic
 cask install slack
-cask install sophos-anti-virus-home-edition
+#cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install synergy
 cask install trim-enabler
