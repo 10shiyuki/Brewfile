@@ -45,7 +45,7 @@ cask install macdown
 cask install macs-fan-control
 cask install mactracker
 cask install makemkv
-cask install mplayerx
+#cask install mplayerx
 cask install objektiv
 cask install opera
 cask install silverlight
