@@ -42,6 +42,7 @@ cask install kobito
 cask install licecap
 cask install lingon-x
 cask install macdown
+cask install macid
 cask install macs-fan-control
 cask install mactracker
 cask install makemkv
