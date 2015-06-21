@@ -26,7 +26,7 @@ cask install evernote
 cask install flash
 cask install fluid
 cask install github
-cask install goofy
+#cask install goofy
 cask install google-adwords-editor
 cask install google-chrome
 #cask install google-drive
@@ -47,6 +47,7 @@ cask install macid
 cask install macs-fan-control
 cask install mactracker
 cask install makemkv
+cask install messenger
 #cask install mplayerx
 cask install objektiv
 cask install opera
@@ -124,7 +125,7 @@ install yasm
 # App Store applications
 appstore 1Password
 appstore Aperture
-appstore Astro for Facebook Messenger
+#appstore Astro for Facebook Messenger
 appstore Dash
 appstore Desktop Calendar Plus
 appstore EasyFind
