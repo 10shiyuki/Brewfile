@@ -49,6 +49,7 @@ cask install macs-fan-control
 cask install mactracker
 cask install makemkv
 cask install messenger
+cask install minecraft
 #cask install mplayerx
 cask install objektiv
 cask install opera
