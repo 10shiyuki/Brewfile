@@ -47,6 +47,8 @@ cask install macdown
 cask install macid
 cask install macs-fan-control
 cask install mactracker
+cask install macvim
+#cask install macvim-kaoriya
 cask install makemkv
 cask install messenger
 cask install minecraft
