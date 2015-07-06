@@ -59,10 +59,9 @@ cask install silverlight
 cask install simple-comic
 cask install skype
 cask install slack
-#cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install synergy
-cask install trim-enabler
+#cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
 cask install virtualbox
