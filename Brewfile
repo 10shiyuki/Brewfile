@@ -12,6 +12,7 @@ cask install bettertouchtool
 cask install caffeine
 cask install calibre
 cask install charles
+cask install chromatic
 cask install chromium
 cask install clipmenu
 cask install cloudytabs
