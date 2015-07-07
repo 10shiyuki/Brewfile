@@ -84,7 +84,7 @@ cask install google-chrome-canary
 
 ## mpv-player/mpv
 tap mpv-player/mpv
-install libass-ct --HEAD
+#install libass-ct --HEAD
 install mpv
 
 ## rcmdnk/file
