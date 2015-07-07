@@ -17,7 +17,7 @@ cask install chromium
 cask install clipmenu
 cask install cloudytabs
 cask install coteditor
-cask install cyberduck
+#cask install cyberduck
 cask install diffmerge
 cask install dropbox
 cask install duet
@@ -31,7 +31,7 @@ cask install github
 cask install google-adwords-editor
 cask install google-chrome
 #cask install google-drive
-cask install google-earch
+#cask install google-earch
 cask install google-japanese-ime
 cask install grandperspective
 cask install gyazo
@@ -56,12 +56,12 @@ cask install minecraft
 cask install mplayerx
 cask install objektiv
 cask install opera
-cask install silverlight
+#cask install silverlight
 cask install simple-comic
 cask install skype
 cask install slack
 cask install sourcetree
-cask install synergy
+#cask install synergy
 #cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
@@ -78,9 +78,9 @@ cask install firefoxdeveloperedition-ja
 cask install google-chrome-canary
 
 ## homebrew/versions
-tap homebrew/versions
+#tap homebrew/versions
 
-install Caskroom/cask/xquartz
+#install Caskroom/cask/xquartz
 
 ## mpv-player/mpv
 tap mpv-player/mpv
