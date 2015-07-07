@@ -57,11 +57,11 @@ cask install mplayerx
 cask install objektiv
 cask install opera
 #cask install silverlight
-cask install simple-comic
 cask install skype
 cask install slack
 cask install sourcetree
 #cask install synergy
+cask install techstoreclub-simple-comic
 #cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
