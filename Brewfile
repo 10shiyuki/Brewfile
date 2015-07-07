@@ -24,7 +24,7 @@ cask install duet
 cask install easyfind
 cask install easysimbl
 cask install evernote
-cask install flash
+#cask install flash
 cask install fluid
 cask install github
 #cask install goofy
@@ -50,10 +50,10 @@ cask install macs-fan-control
 cask install mactracker
 cask install macvim
 #cask install macvim-kaoriya
-cask install makemkv
+#cask install makemkv
 cask install messenger
 cask install minecraft
-#cask install mplayerx
+cask install mplayerx
 cask install objektiv
 cask install opera
 cask install silverlight
@@ -137,8 +137,8 @@ appstore ForkLift
 appstore FormatMatch
 appstore Found
 appstore iBooks Author
-appstore Install OS X Mavericks
-appstore Install OS X Yosemite
+#appstore Install OS X Mavericks
+#appstore Install OS X Yosemite
 appstore iPhoto
 appstore Keynote
 appstore Kindle
