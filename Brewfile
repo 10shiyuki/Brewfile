@@ -56,6 +56,7 @@ cask install minecraft
 cask install mplayerx
 cask install objektiv
 cask install opera
+cask install pixate-studio
 #cask install silverlight
 cask install skype
 cask install slack
