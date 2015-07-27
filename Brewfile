@@ -124,6 +124,7 @@ install ruby-install
 install tree
 install wget
 install x264
+install xhyve
 install xvid
 install yasm
 
