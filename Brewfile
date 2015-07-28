@@ -17,6 +17,7 @@ cask install chromium
 cask install clipmenu
 cask install cloudytabs
 cask install coteditor
+cask install coconutbattery
 cask install diffmerge
 cask install dropbox
 cask install duet
