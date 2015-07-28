@@ -17,17 +17,14 @@ cask install chromium
 cask install clipmenu
 cask install cloudytabs
 cask install coteditor
-#cask install cyberduck
 cask install diffmerge
 cask install dropbox
 cask install duet
 cask install easyfind
 cask install easysimbl
 cask install evernote
-#cask install flash
 cask install fluid
 cask install github
-#cask install goofy
 cask install google-adwords-editor
 cask install google-chrome
 #cask install google-drive
@@ -131,7 +128,6 @@ install yasm
 # App Store applications
 appstore 1Password
 appstore Aperture
-#appstore Astro for Facebook Messenger
 appstore Dash
 appstore Desktop Calendar Plus
 appstore EasyFind
