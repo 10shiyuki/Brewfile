@@ -9,6 +9,7 @@ cask install appcleaner
 cask install atom
 cask install avast
 cask install bettertouchtool
+cask install brackets
 cask install caffeine
 cask install calibre
 cask install charles
@@ -65,6 +66,7 @@ cask install techstoreclub-simple-comic
 cask install unity-web-player
 cask install vagrant
 cask install virtualbox
+cask install visual-studio-code
 cask install vivaldi
 cask install vlc
 cask install xbench
