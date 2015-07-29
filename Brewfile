@@ -57,6 +57,7 @@ cask install objektiv
 cask install opera
 cask install pixate-studio
 #cask install silverlight
+cask install skitch
 cask install skype
 cask install slack
 cask install sourcetree
@@ -149,7 +150,7 @@ appstore Minutes
 appstore Numbers
 appstore Pages
 appstore Pocket
-appstore Skitch
+#appstore Skitch
 appstore SourceTree
 appstore Tweetbot
 appstore WinArchiver Lite
