@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 0xdbe-eap
 cask install android-file-transfer
 cask install appcleaner
 cask install atom
