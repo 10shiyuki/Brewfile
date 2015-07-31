@@ -21,6 +21,7 @@ cask install cloudytabs
 cask install coteditor
 cask install coconutbattery
 cask install diffmerge
+cask install diskmaker-x
 cask install dropbox
 cask install duet
 cask install easyfind
