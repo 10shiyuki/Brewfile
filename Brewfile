@@ -65,6 +65,7 @@ cask install slack
 cask install sourcetree
 #cask install synergy
 cask install techstoreclub-simple-comic
+cask install textwrangler
 #cask install trim-enabler
 cask install unity-web-player
 cask install vagrant
