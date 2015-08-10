@@ -126,6 +126,7 @@ install readline
 install rename
 install ruby-install
 install tree
+install unar
 install wget
 install x264
 install xhyve
