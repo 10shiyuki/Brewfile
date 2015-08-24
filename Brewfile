@@ -29,8 +29,10 @@ cask install easysimbl
 cask install evernote
 cask install fluid
 cask install github
+cask install gitup
 cask install google-adwords-editor
 cask install google-chrome
+cask install google-chrome-canary
 #cask install google-drive
 #cask install google-earch
 cask install google-japanese-ime
@@ -58,6 +60,7 @@ cask install mplayerx
 cask install objektiv
 cask install opera
 cask install pixate-studio
+cask install scansnap-manager-ix500
 #cask install silverlight
 cask install skitch
 cask install skype
@@ -80,7 +83,6 @@ cask install xtrafinder
 tap caskroom/versions
 cask install firefox-ja
 cask install firefoxdeveloperedition-ja
-cask install google-chrome-canary
 
 ## homebrew/versions
 #tap homebrew/versions
