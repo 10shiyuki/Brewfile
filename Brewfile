@@ -28,12 +28,12 @@ cask install easyfind
 cask install easysimbl
 cask install evernote
 cask install fluid
-cask install github
+cask install github-desktop
 cask install gitup
 cask install google-adwords-editor
 cask install google-chrome
 cask install google-chrome-canary
-#cask install google-drive
+cask install google-drive
 #cask install google-earch
 cask install google-japanese-ime
 cask install grandperspective
