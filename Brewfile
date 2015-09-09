@@ -156,7 +156,7 @@ appstore Minutes
 appstore Numbers
 appstore Pages
 appstore Pocket
-#appstore Skitch
+appstore Skitch
 appstore SourceTree
 appstore Tweetbot
 appstore WinArchiver Lite
