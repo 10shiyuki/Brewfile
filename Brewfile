@@ -147,7 +147,7 @@ appstore Found
 appstore iBooks Author
 #appstore Install OS X Mavericks
 #appstore Install OS X Yosemite
-appstore iPhoto
+#appstore iPhoto
 appstore Keynote
 appstore Kindle
 appstore LINE
