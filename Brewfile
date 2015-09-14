@@ -57,6 +57,7 @@ cask install macvim
 cask install messenger
 cask install minecraft
 cask install mplayerx
+cask install node
 cask install objektiv
 cask install opera
 cask install pixate-studio
