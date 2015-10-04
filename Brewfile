@@ -18,7 +18,7 @@ cask install chromatic
 cask install chromium
 cask install clipmenu
 cask install cloudytabs
-cask install coteditor
+#cask install coteditor
 cask install coconutbattery
 cask install diffmerge
 cask install diskmaker-x
@@ -139,6 +139,7 @@ install yasm
 # App Store applications
 appstore 1Password
 appstore Aperture
+appstore Coteditor
 appstore Dash
 appstore Desktop Calendar Plus
 appstore EasyFind
