@@ -16,7 +16,8 @@ cask install calibre
 cask install charles
 cask install chromatic
 cask install chromium
-cask install clipmenu
+#cask install clipmenu
+cask install clipy
 cask install cloudytabs
 #cask install coteditor
 cask install coconutbattery
@@ -59,6 +60,7 @@ cask install minecraft
 cask install mplayerx
 cask install node
 cask install objektiv
+cask install onyx
 cask install opera
 cask install pixate-studio
 cask install scansnap-manager-ix500
