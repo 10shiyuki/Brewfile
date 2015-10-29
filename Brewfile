@@ -123,7 +123,7 @@ install little-cms2
 install lua
 install mpg123
 install nkf
-install node
+install nvm
 install openssl
 install peco
 install pkg-config
