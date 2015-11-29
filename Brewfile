@@ -74,6 +74,7 @@ cask install sourcetree
 cask install techstoreclub-simple-comic
 cask install textwrangler
 #cask install trim-enabler
+cask install turbo-boost-switcher
 cask install unity-web-player
 cask install vagrant
 cask install virtualbox
