@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install 0xdbe-eap
+cask install adobe-reader-ja
 cask install amazon-music
 cask install android-file-transfer
 cask install appcleaner
