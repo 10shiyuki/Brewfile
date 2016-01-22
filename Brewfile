@@ -31,6 +31,7 @@ cask install easyfind
 cask install easysimbl
 cask install evernote
 cask install fluid
+cask install flux
 cask install github-desktop
 cask install gitup
 cask install google-adwords-editor
