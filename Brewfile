@@ -7,7 +7,7 @@ install brew-cask
 cask install 0xdbe-eap
 cask install adobe-reader-ja
 cask install amazon-music
-cask install android-file-transfer
+#cask install android-file-transfer
 cask install appcleaner
 cask install atom
 cask install avast
@@ -32,6 +32,7 @@ cask install easysimbl
 cask install evernote
 cask install fluid
 cask install flux
+cask install geekbench
 cask install github-desktop
 cask install gitup
 cask install google-adwords-editor
@@ -82,6 +83,7 @@ cask install virtualbox
 cask install visual-studio-code
 cask install vivaldi
 cask install vlc
+cask install vmware-fusion
 cask install xbench
 #cask install xtrafinder
 
@@ -144,6 +146,7 @@ install yasm
 # App Store applications
 appstore 1Password
 appstore Aperture
+appstore Blackmagic Disk Speed Test
 appstore Coteditor
 appstore Dash
 appstore Desktop Calendar Plus
@@ -152,8 +155,6 @@ appstore ForkLift
 appstore FormatMatch
 appstore Found
 appstore iBooks Author
-#appstore Install OS X Mavericks
-#appstore Install OS X Yosemite
 #appstore iPhoto
 appstore Keynote
 appstore Kindle
