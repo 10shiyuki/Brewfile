@@ -37,7 +37,7 @@ cask install gitup
 cask install google-adwords-editor
 cask install google-chrome
 cask install google-chrome-canary
-cask install google-drive
+#cask install google-drive
 #cask install google-earch
 cask install google-japanese-ime
 cask install grandperspective
@@ -48,7 +48,6 @@ cask install iphone-backup-extractor
 cask install java6
 cask install karabiner
 cask install kindle
-cask install kobito
 cask install licecap
 cask install lingon-x
 cask install macdown
@@ -62,7 +61,7 @@ cask install messenger
 cask install minecraft
 cask install mplayerx
 cask install node
-cask install objektiv
+#cask install objektiv
 cask install onyx
 cask install opera
 cask install pixate-studio
@@ -84,7 +83,7 @@ cask install visual-studio-code
 cask install vivaldi
 cask install vlc
 cask install xbench
-cask install xtrafinder
+#cask install xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
@@ -158,6 +157,7 @@ appstore iBooks Author
 #appstore iPhoto
 appstore Keynote
 appstore Kindle
+appstore Kobito
 appstore LINE
 appstore Microsoft OneNote
 appstore Minutes
